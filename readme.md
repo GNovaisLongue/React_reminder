@@ -5,16 +5,16 @@ typescript
 
 ---
 
-- javascript bot
+- javascript bot.
   Initial structure for a discord bot in javascript.
 
-- javascript refresher
+- javascript refresher.
   Simple functions and variable declarations.
 
-- react refresher
+- react refresher.
   Reminder regards some basic React knowledge: components, props, rendering, useState
 
-- react styling
+- react styling.
   Different Styling formats. Possible future cheatsheet for myself
 
 ---
